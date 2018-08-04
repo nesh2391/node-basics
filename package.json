@@ -1,7 +1,7 @@
 {
   "name": "3",
   "version": "1.0.0",
-  "description": "",
+  "description": "This demo application has been created to learn about jenkins. It's a bare bones application that shows a web page.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
